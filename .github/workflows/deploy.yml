@@ -6,7 +6,7 @@ on:
     - main
 
 env:
-  UNIQUE_APP_NAME: vslive-orleans-cartify
+  UNIQUE_APP_NAME: vslivecartify
   AZURE_RESOURCE_GROUP_NAME: vslive-orleans
   AZURE_RESOURCE_GROUP_LOCATION: eastus
 
